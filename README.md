@@ -1,7 +1,9 @@
 # code-alpha-intern-task-3
 
 **🔒 Cyber Security Internship – Task 3**
+
 **Secure Coding Review**
+
 **📌 Objective**
 
 To perform a security review of a Python application, identify security vulnerabilities, and provide remediation recommendations using static analysis and manual code inspection.
